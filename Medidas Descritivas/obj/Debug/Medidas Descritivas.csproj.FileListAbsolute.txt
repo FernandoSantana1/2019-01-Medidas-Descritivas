@@ -1,0 +1,10 @@
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas Descritivas.csprojAssemblyReference.cache
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas_Descritivas.Form1.resources
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas_Descritivas.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas Descritivas.csproj.GenerateResource.cache
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas Descritivas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\bin\Debug\Medidas Descritivas.exe.config
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\bin\Debug\Medidas Descritivas.exe
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\bin\Debug\Medidas Descritivas.pdb
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas Descritivas.exe
+C:\Users\Fernando\OneDrive\Visual Studio\C# - Terceiro Periodo\Medidas Descritivas\Medidas Descritivas\obj\Debug\Medidas Descritivas.pdb
